@@ -1,0 +1,1 @@
+import{_ as t,c as e,o as a}from"./chunks/framework.21619c98.js";const d=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"api/components/switch.md","filePath":"api/components/switch.md"}'),o={name:"api/components/switch.md"};function s(c,n,r,i,p,m){return a(),e("div")}const f=t(o,[["render",s]]);export{d as __pageData,f as default};

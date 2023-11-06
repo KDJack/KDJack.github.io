@@ -1,0 +1,1 @@
+import{_ as e,c as t,o}from"./chunks/framework.21619c98.js";const d=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"api/components/checkbox.md","filePath":"api/components/checkbox.md"}'),c={name:"api/components/checkbox.md"};function a(n,s,r,p,i,m){return o(),t("div")}const f=e(c,[["render",a]]);export{d as __pageData,f as default};

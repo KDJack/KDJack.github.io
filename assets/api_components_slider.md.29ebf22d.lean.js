@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as a}from"./chunks/framework.21619c98.js";const l=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"api/components/slider.md","filePath":"api/components/slider.md"}'),o={name:"api/components/slider.md"};function s(r,n,c,i,p,d){return a(),t("div")}const _=e(o,[["render",s]]);export{l as __pageData,_ as default};
